@@ -7,10 +7,13 @@ Autor: Davi Almeida de Oliveira
 # Instalação local
 Para utilizar o sistema em ambiente local é necessário:
 
-1- Java EE
-2- JDK 8
-3- JRE 1.8
-4- Servidor compatível com aplicações Java
+- Java EE
+
+- JDK 8
+
+- JRE 1.8
+
+- Servidor compatível com aplicações Java
 
 Importe o projeto no eclipse e utilize um servidor para rodar em sua máquina.
 Servidor recomendado: Tomcat 7.0.78
