@@ -1,7 +1,7 @@
 # Trabalho-Lab-Engenharia
 
 
-Sistema CRUD de Produtos
+Sistema CRUD de Produtos<br>
 Autor: Davi Almeida de Oliveira
 
 # Instalação local
@@ -15,7 +15,7 @@ Para utilizar o sistema em ambiente local é necessário:
 
 - Servidor compatível com aplicações Java
 
-Importe o projeto no eclipse e utilize um servidor para rodar em sua máquina.
+Importe o projeto no eclipse e utilize um servidor para rodar em sua máquina.<br>
 Servidor recomendado: Tomcat 7.0.78
 
 # Sistema
